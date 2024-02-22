@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1708250606 source:c:\users\aio\desktop\ds\oop-ds-project\main.cpp
+	"Bank.h"
+	<iostream>
+	<iomanip>
+
+1708240213 c:\users\aio\desktop\ds\oop-ds-project\include\bank.h
+	"Customer.h"
+	"Teller.h"
+	"CompareCustomer.h"
+	<queue>
+	<vector>
+	<climits>
+	<iostream>
+
+1708136439 c:\users\aio\desktop\ds\oop-ds-project\include\customer.h
+
+1708250603 c:\users\aio\desktop\ds\oop-ds-project\include\teller.h
+	"Customer.h"
+	<iostream>
+
+1708136363 c:\users\aio\desktop\ds\oop-ds-project\include\comparecustomer.h
+	"Customer.h"
+
+1708628944 source:c:\users\aio\desktop\ds\oop-ds-project\oop-ds-project\main.cpp
+	"Bank.h"
+	<iostream>
+	<iomanip>
+
+1708628837 c:\users\aio\desktop\ds\oop-ds-project\oop-ds-project\include\bank.h
+	"Customer.h"
+	"Teller.h"
+	"CompareCustomer.h"
+	<queue>
+	<vector>
+	<climits>
+	<iostream>
+
+1708136439 c:\users\aio\desktop\ds\oop-ds-project\oop-ds-project\include\customer.h
+
+1708250603 c:\users\aio\desktop\ds\oop-ds-project\oop-ds-project\include\teller.h
+	"Customer.h"
+	<iostream>
+
+1708136363 c:\users\aio\desktop\ds\oop-ds-project\oop-ds-project\include\comparecustomer.h
+	"Customer.h"
+
